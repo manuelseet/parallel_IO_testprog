@@ -4,7 +4,7 @@ Python test programme (psychopy) to test I/O via parallel port for TMS triggers 
 This Psychopy programme was developed to test the precision and synchrony of the Parallel Port Out component for use by an external transcranial magnetic stimulation system that 
 delivers time-controlled ON-only triggers, as well as a third-party data acquisition hardware (PowerLab). 
 
-Parameters tested included 
+Tested parameters include:
 - stimulus onset asychrony (SOA) between a screen cue on the host computer and an Parallel Port Out event
 - presence and absence of a trigger to the TMS event in the Out event
 
