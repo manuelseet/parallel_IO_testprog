@@ -1,8 +1,8 @@
 # parallel_IO_testprog
 Python test programme (psychopy) to test I/O via parallel port for TMS triggers [May 2017]. 
 -- Script developed to support my Honours Year empirical reserch project
--- Final project was peer-reviewed and published in an international neuroscience journal. 
--- Seet, M. S., Livesey, E. J., & Harris, J. A. (2019). Associatively-mediated suppression of corticospinal excitability: A transcranial magnetic stimulation (TMS) study. Neuroscience, 416, 1-8. Link: https://www.sciencedirect.com/science/article/abs/pii/S0306452219305226
+-- Final project was peer-reviewed and published in an international neuroscience journal (Seet, Livesey & Harris, 2019)
+
 
 
 
@@ -16,3 +16,6 @@ Tested parameters include:
 The data acquisition device is also calibrated, and should have an onset SOA = -0.05 relative to the main TMS trigger. 
 Offset SOA = 0.30 relative to onset  
 
+REFERENCES
+
+Seet, M. S., Livesey, E. J., & Harris, J. A. (2019). Associatively-mediated suppression of corticospinal excitability: A transcranial magnetic stimulation (TMS) study. Neuroscience, 416, 1-8. Link: https://www.sciencedirect.com/science/article/abs/pii/S0306452219305226
