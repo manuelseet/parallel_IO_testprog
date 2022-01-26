@@ -1,0 +1,6 @@
+parallel port address:
+0xd050
+
+Define just before the start of the routine which delivers TMS
+TMS = parallel.ParallelPort(address='0xd050')
+power_lab = parallel.ParallelPort(address=u'0xd050')
